@@ -18,4 +18,8 @@ dev-description-of-feature
 2. code, git add, git commit
 3. push to branch
 
+## git commands
+- git checkout <branch> (moves to branch)
+- git branch (lists branches)
+
 # when repo is not clean

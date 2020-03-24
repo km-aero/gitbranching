@@ -21,5 +21,8 @@ dev-description-of-feature
 ## git commands
 - git checkout <branch> (moves to branch)
 - git branch (lists branches)
+- hub pull-request (merges branch to master)
+
+
 
 # when repo is not clean
